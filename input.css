@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-image {
+    background-image: url(./image/background-img.png);
+}
+
+.bg-image_3 {
+    background-image: url(./image/image_3.png);
+    width: 274px;
+    height: 346px;
+}
+.bg-image_4 {
+    background-image: url(./image/image_4.png);
+    width: 316px;
+    height: 400px;
+}
+.bg-image_5 {
+    background-image: url(./image/image_5.png);
+    width: 274px;
+    height: 346px;
+}
+
